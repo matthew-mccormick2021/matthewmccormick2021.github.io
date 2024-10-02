@@ -1,2 +1,2 @@
 # Matthew McCormick
-ther=me: THEME-NAME
+theme: THEME-NAME
